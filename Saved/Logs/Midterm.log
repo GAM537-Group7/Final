@@ -814,3 +814,189 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.23-02.00.53:939][475]AssetCheck: New page: Asset Save: multiple assets
 [2021.02.23-02.00.53:939][475]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level3/level3_BuiltData.level3_BuiltData
 [2021.02.23-02.00.53:939][475]LogContentValidation: Display: Validating World /Game/Level3/level3.level3
+[2021.02.23-02.01.48:927][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.02.23-02.02.22:222][804]LogMetaData: Removing '/Game/Level3/BP/BP_WoodDoor1.BP_WoodDoor1_C' ref from Metadata '/Game/Level3/BP_WoodDoor1.PackageMetaData'
+[2021.02.23-02.02.22:222][804]LogMetaData: Removing '/Game/Level3/BP/BP_WoodDoor1.SKEL_BP_WoodDoor1_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/BP_WoodDoor1.PackageMetaData'
+[2021.02.23-02.02.22:222][804]LogMetaData: Removing '/Game/Level3/BP/BP_WoodDoor1.SKEL_BP_WoodDoor1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level3/BP_WoodDoor1.PackageMetaData'
+[2021.02.23-02.02.22:222][804]LogMetaData: Removing '/Game/Level3/BP/BP_WoodDoor1.SKEL_BP_WoodDoor1_C:ReceiveTick' ref from Metadata '/Game/Level3/BP_WoodDoor1.PackageMetaData'
+[2021.02.23-02.02.22:222][804]LogMetaData: Removing '/Game/Level3/BP/BP_WoodDoor1.SKEL_BP_WoodDoor1_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level3/BP_WoodDoor1.PackageMetaData'
+[2021.02.23-02.02.22:222][804]LogMetaData: Removing '/Game/Level3/BP/BP_WoodDoor1.SKEL_BP_WoodDoor1_C:CloseDoor' ref from Metadata '/Game/Level3/BP_WoodDoor1.PackageMetaData'
+[2021.02.23-02.02.22:222][804]LogMetaData: Removing '/Game/Level3/BP/BP_WoodDoor1.SKEL_BP_WoodDoor1_C:UserConstructionScript' ref from Metadata '/Game/Level3/BP_WoodDoor1.PackageMetaData'
+[2021.02.23-02.02.22:222][804]LogMetaData: Removing '/Game/Level3/BP/BP_WoodDoor1.SKEL_BP_WoodDoor1_C' ref from Metadata '/Game/Level3/BP_WoodDoor1.PackageMetaData'
+[2021.02.23-02.02.22:281][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/BP/BP_WoodDoor1" FILE="../../../../Practice/Midterm/Content/Level3/BP/BP_WoodDoor1.uasset" SILENT=true
+[2021.02.23-02.02.22:303][804]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/BP_WoodDoor18B5A4C854EE36A8A1C8B328CAD572092.tmp' to '../../../../Practice/Midterm/Content/Level3/BP/BP_WoodDoor1.uasset'
+[2021.02.23-02.02.22:551][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/BP_WoodDoor1" FILE="../../../../Practice/Midterm/Content/Level3/BP_WoodDoor1.uasset" SILENT=true
+[2021.02.23-02.02.22:557][804]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/BP_WoodDoor165920F5242F7AC29BC153F983C1FDA2D.tmp' to '../../../../Practice/Midterm/Content/Level3/BP_WoodDoor1.uasset'
+[2021.02.23-02.02.23:039][804]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.23-02.02.23:039][804]LogContentValidation: Display: Validating Blueprint /Game/Level3/BP/BP_WoodDoor1.BP_WoodDoor1
+[2021.02.23-02.02.23:040][804]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/BP_WoodDoor1.BP_WoodDoor1_C
+[2021.02.23-02.02.23:040][804]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/BP_WoodDoor1.Default__BP_WoodDoor1_C
+[2021.02.23-02.02.23:040][804]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/BP_WoodDoor1.BP_WoodDoor1
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.Disappearing_floor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.Disappearing_floor_C' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.Disappearing_floor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.Disappearing_floor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.Disappearing_floor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.SKEL_Disappearing_floor_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.SKEL_Disappearing_floor_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.SKEL_Disappearing_floor_C:ReceiveTick' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.SKEL_Disappearing_floor_C:UserConstructionScript' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:806][384]LogMetaData: Removing '/Game/Level3/Objects/Disappearing_floor.SKEL_Disappearing_floor_C' ref from Metadata '/Game/Level3/Disappearing_floor.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.FinishMirror:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.FinishMirror_C' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.FinishMirror:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.FinishMirror:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.FinishMirror:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.SKEL_FinishMirror_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.SKEL_FinishMirror_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.SKEL_FinishMirror_C:ReceiveTick' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.SKEL_FinishMirror_C:UserConstructionScript' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:811][384]LogMetaData: Removing '/Game/Level3/Objects/FinishMirror.SKEL_FinishMirror_C' ref from Metadata '/Game/Level3/FinishMirror.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.Key_Platform:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.Key_Platform_C' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.Key_Platform:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.Key_Platform:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.Key_Platform:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.SKEL_Key_Platform_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.SKEL_Key_Platform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.SKEL_Key_Platform_C:ReceiveTick' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.SKEL_Key_Platform_C:UserConstructionScript' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:817][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform.SKEL_Key_Platform_C' ref from Metadata '/Game/Level3/Key_Platform.PackageMetaData'
+[2021.02.23-02.02.40:822][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform_Disappear.Key_Platform_Disappear_C' ref from Metadata '/Game/Level3/Key_Platform_Disappear.PackageMetaData'
+[2021.02.23-02.02.40:822][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform_Disappear.SKEL_Key_Platform_Disappear_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/Key_Platform_Disappear.PackageMetaData'
+[2021.02.23-02.02.40:822][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform_Disappear.SKEL_Key_Platform_Disappear_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level3/Key_Platform_Disappear.PackageMetaData'
+[2021.02.23-02.02.40:822][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform_Disappear.SKEL_Key_Platform_Disappear_C:ReceiveTick' ref from Metadata '/Game/Level3/Key_Platform_Disappear.PackageMetaData'
+[2021.02.23-02.02.40:822][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform_Disappear.SKEL_Key_Platform_Disappear_C:UserConstructionScript' ref from Metadata '/Game/Level3/Key_Platform_Disappear.PackageMetaData'
+[2021.02.23-02.02.40:822][384]LogMetaData: Removing '/Game/Level3/Objects/Key_Platform_Disappear.SKEL_Key_Platform_Disappear_C' ref from Metadata '/Game/Level3/Key_Platform_Disappear.PackageMetaData'
+[2021.02.23-02.02.40:881][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Objects/Disappearing_floor" FILE="../../../../Practice/Midterm/Content/Level3/Objects/Disappearing_floor.uasset" SILENT=true
+[2021.02.23-02.02.40:898][384]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/Disappearing_floor436680F14F952F0C95DEE3B3B27F1C12.tmp' to '../../../../Practice/Midterm/Content/Level3/Objects/Disappearing_floor.uasset'
+[2021.02.23-02.02.41:132][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Disappearing_floor" FILE="../../../../Practice/Midterm/Content/Level3/Disappearing_floor.uasset" SILENT=true
+[2021.02.23-02.02.41:138][384]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/Disappearing_floor92F1D3B74D0582207207ABBE112D6165.tmp' to '../../../../Practice/Midterm/Content/Level3/Disappearing_floor.uasset'
+[2021.02.23-02.02.41:164][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Objects/FinishMirror" FILE="../../../../Practice/Midterm/Content/Level3/Objects/FinishMirror.uasset" SILENT=true
+[2021.02.23-02.02.41:179][384]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/FinishMirror79BCB2524758D4A6865DD78A82B9915A.tmp' to '../../../../Practice/Midterm/Content/Level3/Objects/FinishMirror.uasset'
+[2021.02.23-02.02.41:459][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/FinishMirror" FILE="../../../../Practice/Midterm/Content/Level3/FinishMirror.uasset" SILENT=true
+[2021.02.23-02.02.41:465][384]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/FinishMirrorE40F0A7043039D99088F59AFB5CCEB3F.tmp' to '../../../../Practice/Midterm/Content/Level3/FinishMirror.uasset'
+[2021.02.23-02.02.41:491][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Objects/Key_Platform" FILE="../../../../Practice/Midterm/Content/Level3/Objects/Key_Platform.uasset" SILENT=true
+[2021.02.23-02.02.41:507][384]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/Key_Platform2D7B0CC940AE33AEC0493C8FCF8AE964.tmp' to '../../../../Practice/Midterm/Content/Level3/Objects/Key_Platform.uasset'
+[2021.02.23-02.02.41:791][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Key_Platform" FILE="../../../../Practice/Midterm/Content/Level3/Key_Platform.uasset" SILENT=true
+[2021.02.23-02.02.41:797][384]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/Key_PlatformE29D8ED94B8A312828795DB9E422864B.tmp' to '../../../../Practice/Midterm/Content/Level3/Key_Platform.uasset'
+[2021.02.23-02.02.41:823][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Objects/Key_Platform_Disappear" FILE="../../../../Practice/Midterm/Content/Level3/Objects/Key_Platform_Disappear.uasset" SILENT=true
+[2021.02.23-02.02.41:839][384]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/Key_Platform_Disappear919E555141023F339BD8BBB7891AB6C5.tmp' to '../../../../Practice/Midterm/Content/Level3/Objects/Key_Platform_Disappear.uasset'
+[2021.02.23-02.02.42:118][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Key_Platform_Disappear" FILE="../../../../Practice/Midterm/Content/Level3/Key_Platform_Disappear.uasset" SILENT=true
+[2021.02.23-02.02.42:124][384]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/Key_Platform_DisappearCE85CF504FD6FBA20A0439886A96AE7A.tmp' to '../../../../Practice/Midterm/Content/Level3/Key_Platform_Disappear.uasset'
+[2021.02.23-02.02.43:673][384]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.23-02.02.43:673][384]LogContentValidation: Display: Validating Blueprint /Game/Level3/Objects/Key_Platform_Disappear.Key_Platform_Disappear
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating Blueprint /Game/Level3/Objects/Key_Platform.Key_Platform
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating Blueprint /Game/Level3/Objects/FinishMirror.FinishMirror
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating Blueprint /Game/Level3/Objects/Disappearing_floor.Disappearing_floor
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Disappearing_floor.Disappearing_floor_C
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Disappearing_floor.Default__Disappearing_floor_C
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Disappearing_floor.Disappearing_floor
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/FinishMirror.FinishMirror_C
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/FinishMirror.Default__FinishMirror_C
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/FinishMirror.FinishMirror
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Key_Platform.Key_Platform_C
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Key_Platform.Default__Key_Platform_C
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Key_Platform.Key_Platform
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Key_Platform_Disappear.Key_Platform_Disappear_C
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Key_Platform_Disappear.Default__Key_Platform_Disappear_C
+[2021.02.23-02.02.43:674][384]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Key_Platform_Disappear.Key_Platform_Disappear
+[2021.02.23-02.02.48:866][494]LogMetaData: Removing '/Game/Level3/Objects/MovingBall.MovingBall_C' ref from Metadata '/Game/Level3/MovingBall.PackageMetaData'
+[2021.02.23-02.02.48:866][494]LogMetaData: Removing '/Game/Level3/Objects/MovingBall.SKEL_MovingBall_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/MovingBall.PackageMetaData'
+[2021.02.23-02.02.48:866][494]LogMetaData: Removing '/Game/Level3/Objects/MovingBall.SKEL_MovingBall_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level3/MovingBall.PackageMetaData'
+[2021.02.23-02.02.48:866][494]LogMetaData: Removing '/Game/Level3/Objects/MovingBall.SKEL_MovingBall_C:ReceiveTick' ref from Metadata '/Game/Level3/MovingBall.PackageMetaData'
+[2021.02.23-02.02.48:866][494]LogMetaData: Removing '/Game/Level3/Objects/MovingBall.SKEL_MovingBall_C:UserConstructionScript' ref from Metadata '/Game/Level3/MovingBall.PackageMetaData'
+[2021.02.23-02.02.48:866][494]LogMetaData: Removing '/Game/Level3/Objects/MovingBall.SKEL_MovingBall_C' ref from Metadata '/Game/Level3/MovingBall.PackageMetaData'
+[2021.02.23-02.02.48:866][494]LogMetaData: Removing '/Game/Level3/Objects/MovingBall.MovingBall_C:UserConstructionScript' ref from Metadata '/Game/Level3/MovingBall.PackageMetaData'
+[2021.02.23-02.02.48:871][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.Moving_Platform:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.Moving_Platform_C' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.Moving_Platform:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.Moving_Platform:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.Moving_Platform:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.SKEL_Moving_Platform_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.SKEL_Moving_Platform_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.SKEL_Moving_Platform_C:ReceiveTick' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.SKEL_Moving_Platform_C:UserConstructionScript' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.SKEL_Moving_Platform_C' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:872][494]LogMetaData: Removing '/Game/Level3/Objects/Moving_Platform.Moving_Platform_C:UserConstructionScript' ref from Metadata '/Game/Level3/Moving_Platform.PackageMetaData'
+[2021.02.23-02.02.48:925][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Objects/MovingBall" FILE="../../../../Practice/Midterm/Content/Level3/Objects/MovingBall.uasset" SILENT=true
+[2021.02.23-02.02.48:948][494]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/MovingBall40FCDE6C47CBF25E92DAF38EB6525445.tmp' to '../../../../Practice/Midterm/Content/Level3/Objects/MovingBall.uasset'
+[2021.02.23-02.02.49:173][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/MovingBall" FILE="../../../../Practice/Midterm/Content/Level3/MovingBall.uasset" SILENT=true
+[2021.02.23-02.02.49:180][494]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/MovingBallFA6CC3ED40FECC14F42648B7D2FEBD6A.tmp' to '../../../../Practice/Midterm/Content/Level3/MovingBall.uasset'
+[2021.02.23-02.02.49:206][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Objects/Moving_Platform" FILE="../../../../Practice/Midterm/Content/Level3/Objects/Moving_Platform.uasset" SILENT=true
+[2021.02.23-02.02.49:230][494]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/Moving_PlatformE08755604E33B218FF4DC4A805512DE7.tmp' to '../../../../Practice/Midterm/Content/Level3/Objects/Moving_Platform.uasset'
+[2021.02.23-02.02.49:500][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Moving_Platform" FILE="../../../../Practice/Midterm/Content/Level3/Moving_Platform.uasset" SILENT=true
+[2021.02.23-02.02.49:507][494]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/Moving_Platform6448EBB64CBFCEAC15D75581076CBBE9.tmp' to '../../../../Practice/Midterm/Content/Level3/Moving_Platform.uasset'
+[2021.02.23-02.02.50:444][494]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.23-02.02.50:444][494]LogContentValidation: Display: Validating Blueprint /Game/Level3/Objects/MovingBall.MovingBall
+[2021.02.23-02.02.50:444][494]LogContentValidation: Display: Validating Blueprint /Game/Level3/Objects/Moving_Platform.Moving_Platform
+[2021.02.23-02.02.50:444][494]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/MovingBall.MovingBall_C
+[2021.02.23-02.02.50:444][494]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/MovingBall.Default__MovingBall_C
+[2021.02.23-02.02.50:444][494]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/MovingBall.MovingBall
+[2021.02.23-02.02.50:444][494]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Moving_Platform.Moving_Platform_C
+[2021.02.23-02.02.50:444][494]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Moving_Platform.Default__Moving_Platform_C
+[2021.02.23-02.02.50:444][494]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Moving_Platform.Moving_Platform
+[2021.02.23-02.03.05:363][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/M_Shelf" FILE="../../../../Practice/Midterm/Content/Level3/Materials/M_Shelf.uasset" SILENT=true
+[2021.02.23-02.03.05:378][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_ShelfA8F4F1B640FE4D643987D1B49A82F4D0.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/M_Shelf.uasset'
+[2021.02.23-02.03.05:674][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/M_Shelf" FILE="../../../../Practice/Midterm/Content/Level3/M_Shelf.uasset" SILENT=true
+[2021.02.23-02.03.05:683][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Shelf51F7803744713059860CEAB520CD78EA.tmp' to '../../../../Practice/Midterm/Content/Level3/M_Shelf.uasset'
+[2021.02.23-02.03.05:713][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/M_Statue" FILE="../../../../Practice/Midterm/Content/Level3/Materials/M_Statue.uasset" SILENT=true
+[2021.02.23-02.03.05:728][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_StatueBF32C3F245AA97B665859B8C5B207B3E.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/M_Statue.uasset'
+[2021.02.23-02.03.06:036][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/M_Statue" FILE="../../../../Practice/Midterm/Content/Level3/M_Statue.uasset" SILENT=true
+[2021.02.23-02.03.06:043][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Statue810343F741E535BE6CA0A7BD82D21937.tmp' to '../../../../Practice/Midterm/Content/Level3/M_Statue.uasset'
+[2021.02.23-02.03.06:074][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/M_TableRound" FILE="../../../../Practice/Midterm/Content/Level3/Materials/M_TableRound.uasset" SILENT=true
+[2021.02.23-02.03.06:093][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_TableRound53D3A78D486239045AC20B80E7F9911E.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/M_TableRound.uasset'
+[2021.02.23-02.03.06:402][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/M_TableRound" FILE="../../../../Practice/Midterm/Content/Level3/M_TableRound.uasset" SILENT=true
+[2021.02.23-02.03.06:409][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_TableRound42A8818B466D6CC96E41E08E6C210574.tmp' to '../../../../Practice/Midterm/Content/Level3/M_TableRound.uasset'
+[2021.02.23-02.03.06:442][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/M_Wood_Floor_Walnut_Polished" FILE="../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Floor_Walnut_Polished.uasset" SILENT=true
+[2021.02.23-02.03.06:460][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_Floor_Walnut_Polished91C5F7854B3B8939B88270B76F7F61F7.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Floor_Walnut_Polished.uasset'
+[2021.02.23-02.03.06:770][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/M_Wood_Floor_Walnut_Polished" FILE="../../../../Practice/Midterm/Content/Level3/M_Wood_Floor_Walnut_Polished.uasset" SILENT=true
+[2021.02.23-02.03.06:778][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_Floor_Walnut_Polished38F126CD40427672E177E980D1E2F96A.tmp' to '../../../../Practice/Midterm/Content/Level3/M_Wood_Floor_Walnut_Polished.uasset'
+[2021.02.23-02.03.06:811][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/M_Wood_Oak" FILE="../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Oak.uasset" SILENT=true
+[2021.02.23-02.03.06:829][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_Oak4F8FA81444186CCC60D254B4746BA1F1.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Oak.uasset'
+[2021.02.23-02.03.07:146][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/M_Wood_Oak" FILE="../../../../Practice/Midterm/Content/Level3/M_Wood_Oak.uasset" SILENT=true
+[2021.02.23-02.03.07:153][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_OakDC1229D74D3CB6061A8A2FBC5418C9C6.tmp' to '../../../../Practice/Midterm/Content/Level3/M_Wood_Oak.uasset'
+[2021.02.23-02.03.07:189][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/M_Wood_Pine" FILE="../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Pine.uasset" SILENT=true
+[2021.02.23-02.03.07:208][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_Pine0F46A9DC4F18CF0F53C6FF9978B7B98A.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Pine.uasset'
+[2021.02.23-02.03.07:517][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/M_Wood_Pine" FILE="../../../../Practice/Midterm/Content/Level3/M_Wood_Pine.uasset" SILENT=true
+[2021.02.23-02.03.07:523][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_Pine35BC719041C4E65536FDB88D36DB2E8F.tmp' to '../../../../Practice/Midterm/Content/Level3/M_Wood_Pine.uasset'
+[2021.02.23-02.03.07:564][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/M_Wood_Floor_Walnut_Worn" FILE="../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Floor_Walnut_Worn.uasset" SILENT=true
+[2021.02.23-02.03.07:581][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_Floor_Walnut_WornE112DCA54EF54D7CB636BEAFEC4E08B2.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Floor_Walnut_Worn.uasset'
+[2021.02.23-02.03.07:894][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/M_Wood_Floor_Walnut_Worn" FILE="../../../../Practice/Midterm/Content/Level3/M_Wood_Floor_Walnut_Worn.uasset" SILENT=true
+[2021.02.23-02.03.07:902][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_Floor_Walnut_WornD4DF209D40D961B3252FE2B11AAB9FCF.tmp' to '../../../../Practice/Midterm/Content/Level3/M_Wood_Floor_Walnut_Worn.uasset'
+[2021.02.23-02.03.07:944][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/Mirror" FILE="../../../../Practice/Midterm/Content/Level3/Materials/Mirror.uasset" SILENT=true
+[2021.02.23-02.03.07:959][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/MirrorF67A800347FC6365156E4BA25FB23524.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/Mirror.uasset'
+[2021.02.23-02.03.08:255][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Mirror" FILE="../../../../Practice/Midterm/Content/Level3/Mirror.uasset" SILENT=true
+[2021.02.23-02.03.08:262][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/MirrorD49C6FCC4C90A6C9993D359127C65CB5.tmp' to '../../../../Practice/Midterm/Content/Level3/Mirror.uasset'
+[2021.02.23-02.03.08:320][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Materials/M_Wood_Walnut" FILE="../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Walnut.uasset" SILENT=true
+[2021.02.23-02.03.08:360][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_WalnutB1B7035D40448D250B0689A2F827D486.tmp' to '../../../../Practice/Midterm/Content/Level3/Materials/M_Wood_Walnut.uasset'
+[2021.02.23-02.03.08:659][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/M_Wood_Walnut" FILE="../../../../Practice/Midterm/Content/Level3/M_Wood_Walnut.uasset" SILENT=true
+[2021.02.23-02.03.08:664][817]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/M_Wood_Walnut917EC4FC422F2D002AC5E2A9A43D0DE6.tmp' to '../../../../Practice/Midterm/Content/Level3/M_Wood_Walnut.uasset'
+[2021.02.23-02.03.12:440][817]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/M_Statue.M_Statue
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/M_Shelf.M_Shelf
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/Mirror.Mirror
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/M_Wood_Pine.M_Wood_Pine
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/M_TableRound.M_TableRound
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/M_Wood_Oak.M_Wood_Oak
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating Material /Game/Level3/Materials/M_Wood_Walnut.M_Wood_Walnut
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/M_Shelf.M_Shelf
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/M_Statue.M_Statue
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/M_TableRound.M_TableRound
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/M_Wood_Oak.M_Wood_Oak
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/M_Wood_Pine.M_Wood_Pine
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/Mirror.Mirror
+[2021.02.23-02.03.12:440][817]LogContentValidation: Display: Validating ObjectRedirector /Game/Level3/M_Wood_Walnut.M_Wood_Walnut
+[2021.02.23-02.03.13:835][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.02.23-02.03.14:881][876]LogSlate: Window 'Save Content' being destroyed
+[2021.02.23-02.03.15:156][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/BP/BP_WoodDoor1" FILE="../../../../Practice/Midterm/Content/Level3/BP/BP_WoodDoor1.uasset" SILENT=true
+[2021.02.23-02.03.15:177][876]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/BP_WoodDoor13FF8DAE242085AB2962C0D85BA717705.tmp' to '../../../../Practice/Midterm/Content/Level3/BP/BP_WoodDoor1.uasset'
+[2021.02.23-02.03.15:207][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Objects/FinishMirror" FILE="../../../../Practice/Midterm/Content/Level3/Objects/FinishMirror.uasset" SILENT=true
+[2021.02.23-02.03.15:222][876]LogSavePackage: Moving '../../../../Practice/Midterm/Saved/FinishMirror470A129D443E389B7704B0AEF00C0A00.tmp' to '../../../../Practice/Midterm/Content/Level3/Objects/FinishMirror.uasset'
+[2021.02.23-02.03.15:234][876]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.23-02.03.15:234][876]LogContentValidation: Display: Validating Blueprint /Game/Level3/BP/BP_WoodDoor1.BP_WoodDoor1
+[2021.02.23-02.03.15:234][876]LogContentValidation: Display: Validating Blueprint /Game/Level3/Objects/FinishMirror.FinishMirror
